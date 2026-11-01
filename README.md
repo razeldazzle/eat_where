@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 Run the application:
 
-03_main.py
+python 03_main.py
 
 ## Setup
 
