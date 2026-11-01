@@ -25,6 +25,14 @@ Rather than browsing through endless restaurant listings, users answer a few sim
 
 - Overpass API – Retrieves nearby restaurant listings from OpenStreetMap
 
+# Files
+
+- `03_main.py`: the full prototype. Run this one.
+  
+- `01_nominatim_test.py`: an early test of the location lookup (Nominatim).
+  
+- `02_restaurant_search.py`: an early test of the restaurant search (Overpass).
+
 # Running the Project
 
 Clone this repository.
