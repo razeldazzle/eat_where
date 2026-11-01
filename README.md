@@ -37,6 +37,10 @@ Run the application:
 
 python main.py
 
+## Setup
+
+Before running the scripts, replace the placeholder email in the User-Agent headers
+
 # Limitations
 
 This is an early-stage prototype. Restaurant information depends on OpenStreetMap data, which may have incomplete or missing details, including prices, ratings and dietary information.
