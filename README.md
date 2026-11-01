@@ -61,8 +61,11 @@ This is an early-stage prototype. Restaurant information depends on OpenStreetMa
 # Future Improvements
 
 Improve restaurant ranking and recommendation relevance.
+
 Expand restaurant information and dietary filtering.
+
 Develop a graphical user interface.
+
 Conduct further user testing.
 
 # Why I built this
