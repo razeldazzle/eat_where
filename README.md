@@ -33,6 +33,10 @@ Rather than browsing through endless restaurant listings, users answer a few sim
   
 - `02_restaurant_search.py`: an early test of the restaurant search (Overpass).
 
+# Setup
+
+Before running any of the scripts, replace your-email@email.com in the User-Agent header with your own email
+
 # Running the Project
 
 Clone this repository.
@@ -45,9 +49,6 @@ Run the application:
 
 python 03_main.py
 
-## Setup
-
-Before running the scripts, replace the placeholder email in the User-Agent headers
 
 # Limitations
 
